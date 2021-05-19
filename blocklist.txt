@@ -1,3 +1,7 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 http://unagi-eu.amazon.com
+0.0.0.0 http://images-eu.ssl-images-amazon.com
+0.0.0.0 http://images-na.ssl-images-amazon.com
+0.0.0.0 http://e7808.dscg.akamaiedge.net
