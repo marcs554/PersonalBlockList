@@ -31,3 +31,4 @@
 0.0.0.0 alt9-mobile-gtalk9.l.google.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 g.whatsapp.net
+0.0.0.0 fonts.gstatic.com
