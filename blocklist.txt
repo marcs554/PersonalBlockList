@@ -9,4 +9,4 @@
 0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 alt6-mobile-gtalk4.l.google.com
 0.0.0.0 alt4.mobile-gtalk4.l.google.com
-0.0.0.0 alt*-mtalk.google.com
+0.0.0.0 ^alt[0-9]+-mtalk.google.com
