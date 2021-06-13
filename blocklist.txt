@@ -7,3 +7,7 @@
 0.0.0.0 http://e7808.dscg.akamaiedge.net
 0.0.0.0 mtalk.google.com
 0.0.0.0 mobile-gtalk.l.google.com
+0.0.0.0 alt6-mtalk.google.com
+0.0.0.0 alt6-mobile-gtalk4.l.google.com
+0.0.0.0 alt4-mtalk.google.com
+0.0.0.0 alt4.mobile-gtalk4.l.google.com
