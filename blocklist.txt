@@ -45,3 +45,4 @@
 0.0.0.0 clients.l.google.com
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 content-autofill.googleapis.com
+0.0.0.0 clk.tradedoubler.com
