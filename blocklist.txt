@@ -9,7 +9,6 @@
 0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 alt6-mobile-gtalk4.l.google.com
 0.0.0.0 alt4.mobile-gtalk4.l.google.com
-0.0.0.0 alt2-mobile-gtalk4.l.google.com
 0.0.0.0 alt0-mtalk.google.com
 0.0.0.0 alt1-mtalk.google.com
 0.0.0.0 alt2-mtalk.google.com
