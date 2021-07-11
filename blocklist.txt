@@ -29,9 +29,7 @@
 0.0.0.0 alt7-mobile-gtalk7.l.google.com
 0.0.0.0 alt8-mobile-gtalk8.l.google.com
 0.0.0.0 alt9-mobile-gtalk9.l.google.com
-0.0.0.0 play.googleapis.com
 0.0.0.0 g.whatsapp.net
-0.0.0.0 fonts.gstatic.com
 0.0.0.0 clients0.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
