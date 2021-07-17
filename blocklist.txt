@@ -44,3 +44,5 @@
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 content-autofill.googleapis.com
 0.0.0.0 clk.tradedoubler.com
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 app-measurement.com
