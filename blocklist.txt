@@ -47,3 +47,9 @@
 0.0.0.0 people-pa.googleapis.com
 0.0.0.0 app-measurement.com
 0.0.0.0 admob.google.com
+0.0.0.0 analytics.firebase.google.com
+0.0.0.0 analytics.apps.android.google.com
+0.0.0.0 analytics.gms.android.google.com
+0.0.0.0 measurement.gms.android.google.com
+0.0.0.0 tagmanager.google.com
+0.0.0.0 tagmanager.gms.android.google.com
