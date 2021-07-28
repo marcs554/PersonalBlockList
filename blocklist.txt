@@ -53,3 +53,13 @@
 0.0.0.0 measurement.gms.android.google.com
 0.0.0.0 tagmanager.google.com
 0.0.0.0 tagmanager.gms.android.google.com
+0.0.0.0 AdView.ads.gms.android.google.com
+0.0.0.0 AdActivity.ads.gms.android.google.com
+0.0.0.0 AdRequest.ads.gms.android.google.com
+0.0.0.0 mediation.ads.gms.android.google.com
+0.0.0.0 doubleclick.ads.gms.android.google.com
+0.0.0.0 ads.android.google.com
+0.0.0.0 ads.gms.android.google.com
+0.0.0.0 ads.unity.google.com
+0.0.0.0 firebase_ads.firebase.google.com
+0.0.0.0 ads.tinder.com
