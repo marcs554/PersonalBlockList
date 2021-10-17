@@ -65,3 +65,9 @@
 0.0.0.0 ads.tinder.com
 0.0.0.0 footprints-pa.googleapis.com
 0.0.0.0 mdh-pa.googleapis.com
+0.0.0.0 comscore.com
+0.0.0.0 library.omid.iab.com
+0.0.0.0 schibsted.com
+0.0.0.0 api.segment.io
+0.0.0.0 segment.com
+
