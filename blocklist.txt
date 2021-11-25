@@ -70,4 +70,3 @@
 0.0.0.0 schibsted.com
 0.0.0.0 api.segment.io
 0.0.0.0 segment.com
-0.0.0.0 example.domain.com
