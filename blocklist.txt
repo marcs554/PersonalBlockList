@@ -74,3 +74,13 @@
 0.0.0.0 faponic.com
 0.0.0.0 redgifs.com
 0.0.0.0 www.instagram.com
+0.0.0.0 eip-ntt.video.twimg.com.akahost.net
+0.0.0.0 video.twimg.com
+0.0.0.0 ideo.es
+0.0.0.0 your-sexy-dream2.com
+0.0.0.0 sffsdvc.com
+0.0.0.0 mobile.twitter.com
+0.0.0.0 redgifs.com
+0.0.0.0 faponic.com
+0.0.0.0 twitter.com
+0.0.0.0 hitomi.la
