@@ -84,3 +84,4 @@
 0.0.0.0 faponic.com
 0.0.0.0 twitter.com
 0.0.0.0 hitomi.la
+0.0.0.0 quora.com
