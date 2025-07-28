@@ -86,3 +86,5 @@
 0.0.0.0 hitomi.la
 0.0.0.0 quora.com
 0.0.0.0 libreddit.kavin.rocks
+0.0.0.0 toshsheria.top
+0.0.0.0 deessetnas.top 
