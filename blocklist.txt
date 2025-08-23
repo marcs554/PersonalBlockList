@@ -1,10 +1,10 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 gstaticadssl.l.google.com
-0.0.0.0 http://unagi-eu.amazon.com
-0.0.0.0 http://images-eu.ssl-images-amazon.com
-0.0.0.0 http://images-na.ssl-images-amazon.com
-0.0.0.0 http://e7808.dscg.akamaiedge.net
+0.0.0.0 unagi-eu.amazon.com
+0.0.0.0 images-eu.ssl-images-amazon.com
+0.0.0.0 images-na.ssl-images-amazon.com
+0.0.0.0 e7808.dscg.akamaiedge.net
 0.0.0.0 mtalk.google.com
 0.0.0.0 mobile-gtalk.l.google.com
 0.0.0.0 alt6-mobile-gtalk4.l.google.com
@@ -84,7 +84,6 @@
 0.0.0.0 twitter.com
 0.0.0.0 hitomi.la
 0.0.0.0 quora.com
-0.0.0.0 libreddit.kavin.rocks
 0.0.0.0 toshsheria.top
 0.0.0.0 deessetnas.top 
 0.0.0.0 cdn.jsdelivr.net
