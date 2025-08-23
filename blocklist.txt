@@ -91,3 +91,5 @@
 0.0.0.0 cdn.jsdelivr.net
 0.0.0.0 connectivitycheck.gstatic.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 pubsub.googleapis.com
+0.0.0.0 discover-pa.googleapis.com
