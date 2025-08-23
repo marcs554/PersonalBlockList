@@ -29,7 +29,6 @@
 0.0.0.0 alt7-mobile-gtalk7.l.google.com
 0.0.0.0 alt8-mobile-gtalk8.l.google.com
 0.0.0.0 alt9-mobile-gtalk9.l.google.com
-0.0.0.0 g.whatsapp.net
 0.0.0.0 clients0.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
@@ -96,3 +95,5 @@
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 s.yimg.com
+
