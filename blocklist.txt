@@ -93,3 +93,6 @@
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 discover-pa.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
