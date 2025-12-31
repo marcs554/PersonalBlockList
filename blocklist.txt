@@ -92,4 +92,4 @@
 0.0.0.0 geller-pa.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 s.yimg.com
-
+0.0.0.0 fr.app.chat.global.xiaomi.net
