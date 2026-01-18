@@ -93,3 +93,11 @@
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 s.yimg.com
 0.0.0.0 fr.app.chat.global.xiaomi.net
+0.0.0.0 analytics.ahrefs.com
+0.0.0.0 experiments.parsely.com
+0.0.0.0 www.datadoghq-browser-agent.com
+0.0.0.0 zaf.api.fanbyte.com
+0.0.0.0 assets.production.scribd.com
+0.0.0.0 pbjs-stream.bydata.com
+0.0.0.0 prodregistryv2.org
+
