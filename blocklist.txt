@@ -101,3 +101,4 @@
 0.0.0.0 pbjs-stream.bydata.com
 0.0.0.0 prodregistryv2.org
 
+0.0.0.0 deviceapi.micloud.xiaomi.net
