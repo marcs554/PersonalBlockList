@@ -106,3 +106,5 @@
 0.0.0.0 fr.resolver.msg.global.xiaomi.net
 0.0.0.0 fr.app.chat.global.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.net
+0.0.0.0 fr-resolver-msg-global-xiaomi-n-916220403.eu-central-1.elb.amazonaws.com
+0.0.0.0 llvpn.com
