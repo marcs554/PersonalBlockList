@@ -113,3 +113,5 @@
 0.0.0.0 frs2c.com
 0.0.0.0 rovno.xyz
 0.0.0.0 ku.xyridpunitur.com
+0.0.0.0 ew.horsiergrassed.com
+0.0.0.0 bm.sergeizamang.qpon
